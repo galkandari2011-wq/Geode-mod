@@ -1,12 +1,13 @@
 {
-  "geode": "4.0.0",
+  "geode": "3.0.0",
   "gd": {
     "win": "2.2081",
-    "ios": "2.2081"
+    "ios": "2.2081",
+    "android": "2.2081"
   },
   "id": "yourname.predictive_buffer",
   "name": "Predictive Input Buffer",
   "version": "v1.0.0",
   "developer": "YourName",
-  "description": "Forgives late/early clicks within a 3-tick window."
+  "description": "Forgives late and early clicks within a 3-tick window."
 }
